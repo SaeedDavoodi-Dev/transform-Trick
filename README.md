@@ -1,6 +1,5 @@
 # 🎯 transform trick - 3D
 
-![Image](https://github.com/user-attachments/assets/e455773e-5ea1-455f-b4fe-8237993c208b)
 <img width="1329" height="574" alt="Image" src="https://github.com/user-attachments/assets/553301d9-a6de-44ab-a497-98654f3aa736" />
 ## 📖 Description
 ...
