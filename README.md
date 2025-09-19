@@ -1,10 +1,8 @@
 # 🎯 transform trick - 3D
 
 <img width="1329" height="574" alt="Image" src="https://github.com/user-attachments/assets/553301d9-a6de-44ab-a497-98654f3aa736" />
-## 📖 Description
+## 📖 Description : 
 i built a 3d box that moves upward on the z-axis when hovered 
-...
---
 
 - [Demo Project](https://saeeddavoodi-dev.github.io/transform-Trick/)
 
